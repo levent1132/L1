@@ -1,0 +1,22 @@
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\bin\Debug\Luttop 2015.exe
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\bin\Debug\Luttop 2015.pdb
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form1.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Properties.Resources.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop 2015.csproj.GenerateResource.Cache
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop 2015.exe
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop 2015.pdb
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop 2015.csprojResolveAssemblyReference.cache
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form2.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form3.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form4.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form5.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form6.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form7.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form8.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form9.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form10.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form11.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form12.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form13.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\obj\x86\Debug\Luttop_2015.Form14.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop 2015\Luttop 2015\bin\Debug\Luttop 2015.exe.config
